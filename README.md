@@ -363,6 +363,8 @@ A list of books from my physical library, organized by category. Most of my comp
 <br><br>
 * *Récoltes et semailles: Réflexions et témoignage sur un passé de mathématicien* by Alexander Grothendieck
 <br><br>
+* *Great Circle of Mysteries: Mathematics, the World, the Mind* by Misha Gromov
+<br><br>
 * *The Knot Book: An Elementary Introduction to the Mathematical Theory of Knots* by Colin Conrad Adams
 <br><br>
 * *Mathematics for the Nonmathematician* by Morris Kline
