@@ -9,6 +9,8 @@ A list of books from my physical library, organized by category. Most of my comp
 * [Fiction](#fiction)
 
 ## Computer Science
+* *Concepts, Techniques, and Models of Computer Programming* by Peter Van Roy, Seif Haridi
+<br><br>
 * *Types and Programming Languages* by Benjamin C. Pierce
 <br><br>
 * *Introduction to the Theory of Computation* by Michael Sipser
